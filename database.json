@@ -46,7 +46,7 @@
       },
       {
         "id": 4,
-        "title": "Flash Vol. 1 Move Foward",
+        "title": "Flash Vol. 1",
         "author": "Francis Manapul",
         "photo": "https://m.media-amazon.com/images/I/61+fQk0L9XL._SY344_BO1,204,203,200_.jpg",
         "eraId": 5,
@@ -86,7 +86,7 @@
       },
       {
         "id": 9,
-        "title": "Daredevil Vol 1",
+        "title": "Daredevil Vol. 1",
         "author": "Mark Waid",
         "photo": "https://m.media-amazon.com/images/I/51BukXuMkkL.jpg",
         "eraId": 4,
@@ -94,9 +94,41 @@
       },
       {
         "id": 10,
-        "title": "Justice League Vol 1",
+        "title": "Justice League Vol. 1",
         "author": "Scott Snyder",
         "photo": "https://m.media-amazon.com/images/I/61X8R9YAH+L.jpg",
+        "eraId": 4,
+        "userId": 1
+      },
+      {
+        "id": 11,
+        "title": "Flash Vol. 2",
+        "author": "Francis Manapul",
+        "photo": "https://m.media-amazon.com/images/I/61qcuOhN6pL._SX315_BO1,204,203,200_.jpg",
+        "eraId": 5,
+        "userId": 1
+      },
+      {
+        "id": 12,
+        "title": "Flash Vol. 3",
+        "author": "Francis Manapul",
+        "photo": "https://m.media-amazon.com/images/I/61whJg0FjtL._SX329_BO1,204,203,200_.jpg",
+        "eraId": 5,
+        "userId": 1
+      },
+      {
+        "id": 13,
+        "title": "Flash Vol. 4",
+        "author": "Francis Manapul",
+        "photo": "https://m.media-amazon.com/images/I/51fB3wFHElL._SX322_BO1,204,203,200_.jpg",
+        "eraId": 5,
+        "userId": 1
+      },
+      {
+        "id": 14,
+        "title": "Green Lantern: The Sinestro Corps War",
+        "author": "Geoff Johns",
+        "photo": "https://m.media-amazon.com/images/I/51iOKdfyw4L.jpg",
         "eraId": 4,
         "userId": 1
       }
@@ -196,6 +228,38 @@
         "review": "",
         "userId": 1,
         "comicId": 10,
+        "isFavorite": false
+      },
+      {
+        "id": 13,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 11,
+        "isFavorite": false
+      },
+      {
+        "id": 14,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 12,
+        "isFavorite": false
+      },
+      {
+        "id": 15,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 13,
+        "isFavorite": false
+      },
+      {
+        "id": 16,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 14,
         "isFavorite": false
       }
   ],
