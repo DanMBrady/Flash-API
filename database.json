@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Dan Brady",
+      "isAdmin": true,
+      "email": "bradydan@email.com"
+    },
+    {
+      "id": 2,
+      "isAdmin": false,
+      "fullName": "Matt Murdock",
+      "email": "nelsonmurdock@gmail.com"
+    },
+    {
+      "id": 3,
+      "isAdmin": false,
+      "fullName": "Tobey Maguire",
+      "email": "spiderman2002@gmail.com"
+    }
+  ],
+  "comics": [
+    {
+      "id": 1,
+      "title": "Flashpoint",
+      "author": "Geoff Johns",
+      "photo": "https://cdn.collider.com/wp-content/uploads/2017/07/flashpoint-comic-book-cover.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+        "id": 2,
+        "title": "Batman Year One",
+        "author": "Frank Miller",
+        "photo": "https://m.media-amazon.com/images/I/41DLqZ6LY-L._SX328_BO1,204,203,200_.jpg",
+        "eraId": 4,
+        "userId": 1
+      },
+      {
+        "id": 3,
+        "title": "Flash Geoff Johns Book 1",
+        "author": "Geoff Johns",
+        "photo": "https://m.media-amazon.com/images/I/61PKz3TgjiL.jpg",
+        "eraId": 4,
+        "userId": 1
+      },
+      {
+        "id": 4,
+        "title": "Flash Vol. 1 Move Foward",
+        "author": "Francis Manapul",
+        "photo": "https://m.media-amazon.com/images/I/61+fQk0L9XL._SY344_BO1,204,203,200_.jpg",
+        "eraId": 5,
+        "userId": 1
+      },
+      {
+        "id": 5,
+        "title": "Flash Geoff Johns Book 2",
+        "author": "Geoff Johns",
+        "photo": "https://m.media-amazon.com/images/I/A1q053Hc8fL._AC_UF1000,1000_QL80_.jpg",
+        "eraId": 4,
+        "userId": 1
+      },
+      {
+        "id": 6,
+        "title": "Wonder Woman Vol. 1 The Lies",
+        "author": "Greg Rucka",
+        "photo": "https://m.media-amazon.com/images/I/51CDYuRxeNL._SX320_BO1,204,203,200_.jpg",
+        "eraId": 6,
+        "userId": 1
+      },
+      {
+        "id": 7,
+        "title": "Ultimate Spider-Man Vol. 1",
+        "author": "Brian Michael Bendis",
+        "photo": "https://m.media-amazon.com/images/I/513xxgivQfL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "eraId": 7,
+        "userId": 1
+      },
+      {
+        "id": 8,
+        "title": "Spider-Man Blue",
+        "author": "Jeph Loeb",
+        "photo": "https://m.media-amazon.com/images/I/51Arat4PWdL.jpg",
+        "eraId": 4,
+        "userId": 1
+      },
+      {
+        "id": 9,
+        "title": "Daredevil Vol 1",
+        "author": "Mark Waid",
+        "photo": "https://m.media-amazon.com/images/I/51BukXuMkkL.jpg",
+        "eraId": 4,
+        "userId": 1
+      },
+      {
+        "id": 10,
+        "title": "Justice League Vol 1",
+        "author": "Scott Snyder",
+        "photo": "https://m.media-amazon.com/images/I/61X8R9YAH+L.jpg",
+        "eraId": 4,
+        "userId": 1
+      }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 1,
+      "isFavorite": true
+    },
+    {
+        "id": 2,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 2,
+        "isFavorite": false
+      },
+      {
+        "id": 3,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 3,
+        "isFavorite": false
+      },
+      {
+        "id": 4,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 4,
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "readStatId": 2,
+        "review": "",
+        "userId": 1,
+        "comicId": 5,
+        "isFavorite": false
+      },
+      {
+        "id": 6,
+        "readStatId": 1,
+        "review": "",
+        "userId": 1,
+        "comicId": 6,
+        "isFavorite": false
+      },
+      {
+        "id": 7,
+        "readStatId": 3,
+        "review": "",
+        "userId": 1,
+        "comicId": 7,
+        "isFavorite": false
+      },
+      {
+        "id": 8,
+        "readStatId": 2,
+        "review": "",
+        "userId": 1,
+        "comicId": 8,
+        "isFavorite": false
+      },
+      {
+        "id": 9,
+        "readStatId": 3,
+        "review": "",
+        "userId": 3,
+        "comicId": 8,
+        "isFavorite": false
+      },
+      {
+        "id": 10,
+        "readStatId": 3,
+        "review": "",
+        "userId": 3,
+        "comicId": 7,
+        "isFavorite": false
+      },
+      {
+        "id": 11,
+        "readStatId": 1,
+        "review": "",
+        "userId": 1,
+        "comicId": 9,
+        "isFavorite": false
+      },
+      {
+        "id": 12,
+        "readStatId": 1,
+        "review": "",
+        "userId": 1,
+        "comicId": 10,
+        "isFavorite": false
+      }
+  ],
+  "readStats": [
+    {
+      "id": 1,
+      "type": "To Be Read"
+    },
+    {
+      "id": 2,
+      "type": "Currently Reading"
+    },
+    {
+      "id": 3,
+      "type": "Finished Reading"
+    }
+  ],
+  "eras": [
+    {
+      "id": 1,
+      "era": "Golden Age"
+    },
+    {
+      "id": 2,
+      "era": "Silver Age"
+    },
+    {
+      "id": 3,
+      "era": "Bronze Age"
+    },
+    {
+      "id": 4,
+      "era": "Modern Age"
+    },
+    {
+      "id": 5,
+      "era": "DC's New 52"
+    },
+    {
+      "id": 6,
+      "era": "DC's Rebirth"
+    },
+    {
+      "id": 7,
+      "era": "Marvel's Ultimate Era"
+    },
+    {
+      "id": 8,
+      "era": "Marvel's NOW Era"
+    }
+  ]
+}
