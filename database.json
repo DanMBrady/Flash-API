@@ -171,6 +171,22 @@
       "eraId": 4,
       "userId": 1,
       "id": 19
+    },
+    {
+      "title": "Batman Hush",
+      "author": "Jeph Loeb",
+      "photo": "https://m.media-amazon.com/images/I/51h8ZOaWs7L._SX324_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "title": "Spider-Man: Birth of Venom",
+      "author": "Jim Shooter",
+      "photo": "https://m.media-amazon.com/images/I/51WZYePa1AL._SX323_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 21
     }
   ],
   "reviews": [
@@ -341,6 +357,30 @@
       "isFavorite": false,
       "comicId": 19,
       "id": 21
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 20,
+      "id": 22
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 21,
+      "id": 23
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 3,
+      "comicId": 21,
+      "isFavorite": false,
+      "id": 24
     }
   ],
   "readStats": [
