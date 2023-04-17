@@ -24,114 +24,154 @@
       "id": 1,
       "title": "Flashpoint",
       "author": "Geoff Johns",
-      "photo": "https://cdn.collider.com/wp-content/uploads/2017/07/flashpoint-comic-book-cover.jpg",
+      "photo": "https://m.media-amazon.com/images/I/61izOJ-XvCL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
       "eraId": 4,
       "userId": 1
     },
     {
-        "id": 2,
-        "title": "Batman Year One",
-        "author": "Frank Miller",
-        "photo": "https://m.media-amazon.com/images/I/41DLqZ6LY-L._SX328_BO1,204,203,200_.jpg",
-        "eraId": 4,
-        "userId": 1
-      },
-      {
-        "id": 3,
-        "title": "Flash Geoff Johns Book 1",
-        "author": "Geoff Johns",
-        "photo": "https://m.media-amazon.com/images/I/61PKz3TgjiL.jpg",
-        "eraId": 4,
-        "userId": 1
-      },
-      {
-        "id": 4,
-        "title": "Flash Vol. 1",
-        "author": "Francis Manapul",
-        "photo": "https://m.media-amazon.com/images/I/61+fQk0L9XL._SY344_BO1,204,203,200_.jpg",
-        "eraId": 5,
-        "userId": 1
-      },
-      {
-        "id": 5,
-        "title": "Flash Geoff Johns Book 2",
-        "author": "Geoff Johns",
-        "photo": "https://m.media-amazon.com/images/I/A1q053Hc8fL._AC_UF1000,1000_QL80_.jpg",
-        "eraId": 4,
-        "userId": 1
-      },
-      {
-        "id": 6,
-        "title": "Wonder Woman Vol. 1 The Lies",
-        "author": "Greg Rucka",
-        "photo": "https://m.media-amazon.com/images/I/51CDYuRxeNL._SX320_BO1,204,203,200_.jpg",
-        "eraId": 6,
-        "userId": 1
-      },
-      {
-        "id": 7,
-        "title": "Ultimate Spider-Man Vol. 1",
-        "author": "Brian Michael Bendis",
-        "photo": "https://m.media-amazon.com/images/I/513xxgivQfL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
-        "eraId": 7,
-        "userId": 1
-      },
-      {
-        "id": 8,
-        "title": "Spider-Man Blue",
-        "author": "Jeph Loeb",
-        "photo": "https://m.media-amazon.com/images/I/51Arat4PWdL.jpg",
-        "eraId": 4,
-        "userId": 1
-      },
-      {
-        "id": 9,
-        "title": "Daredevil Vol. 1",
-        "author": "Mark Waid",
-        "photo": "https://m.media-amazon.com/images/I/51BukXuMkkL.jpg",
-        "eraId": 4,
-        "userId": 1
-      },
-      {
-        "id": 10,
-        "title": "Justice League Vol. 1",
-        "author": "Scott Snyder",
-        "photo": "https://m.media-amazon.com/images/I/61X8R9YAH+L.jpg",
-        "eraId": 4,
-        "userId": 1
-      },
-      {
-        "id": 11,
-        "title": "Flash Vol. 2",
-        "author": "Francis Manapul",
-        "photo": "https://m.media-amazon.com/images/I/61qcuOhN6pL._SX315_BO1,204,203,200_.jpg",
-        "eraId": 5,
-        "userId": 1
-      },
-      {
-        "id": 12,
-        "title": "Flash Vol. 3",
-        "author": "Francis Manapul",
-        "photo": "https://m.media-amazon.com/images/I/61whJg0FjtL._SX329_BO1,204,203,200_.jpg",
-        "eraId": 5,
-        "userId": 1
-      },
-      {
-        "id": 13,
-        "title": "Flash Vol. 4",
-        "author": "Francis Manapul",
-        "photo": "https://m.media-amazon.com/images/I/51fB3wFHElL._SX322_BO1,204,203,200_.jpg",
-        "eraId": 5,
-        "userId": 1
-      },
-      {
-        "id": 14,
-        "title": "Green Lantern: The Sinestro Corps War",
-        "author": "Geoff Johns",
-        "photo": "https://m.media-amazon.com/images/I/51iOKdfyw4L.jpg",
-        "eraId": 4,
-        "userId": 1
-      }
+      "id": 2,
+      "title": "Batman Year One",
+      "author": "Frank Miller",
+      "photo": "https://m.media-amazon.com/images/I/41DLqZ6LY-L._SX328_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Flash Geoff Johns Book 1",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/61PKz3TgjiL.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Flash Vol. 1",
+      "author": "Francis Manapul",
+      "photo": "https://m.media-amazon.com/images/I/61+fQk0L9XL._SY344_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Flash Geoff Johns Book 2",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/A1q053Hc8fL._AC_UF1000,1000_QL80_.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "title": "Wonder Woman Vol. 1 The Lies",
+      "author": "Greg Rucka",
+      "photo": "https://m.media-amazon.com/images/I/51CDYuRxeNL._SX320_BO1,204,203,200_.jpg",
+      "eraId": 6,
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "title": "Ultimate Spider-Man Vol. 1",
+      "author": "Brian Michael Bendis",
+      "photo": "https://m.media-amazon.com/images/I/513xxgivQfL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "eraId": 7,
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Spider-Man Blue",
+      "author": "Jeph Loeb",
+      "photo": "https://m.media-amazon.com/images/I/51Arat4PWdL.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "title": "Daredevil Vol. 1",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51BukXuMkkL.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Justice League Vol. 1",
+      "author": "Scott Snyder",
+      "photo": "https://m.media-amazon.com/images/I/61X8R9YAH+L.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Flash Vol. 2",
+      "author": "Francis Manapul",
+      "photo": "https://m.media-amazon.com/images/I/61qcuOhN6pL._SX315_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "title": "Flash Vol. 3",
+      "author": "Francis Manapul",
+      "photo": "https://m.media-amazon.com/images/I/61whJg0FjtL._SX329_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "Flash Vol. 4",
+      "author": "Francis Manapul",
+      "photo": "https://m.media-amazon.com/images/I/51fB3wFHElL._SX322_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "Green Lantern: The Sinestro Corps War",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/51iOKdfyw4L.jpg",
+      "eraId": 4,
+      "userId": 1
+    },
+    {
+      "title": "Amazing Spider-Man: Kravens Last Hunt",
+      "author": "J. M. DeMatteis",
+      "photo": "https://m.media-amazon.com/images/I/51-PAuPP1-L._SX323_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 3,
+      "id": 15
+    },
+    {
+      "title": "Amazing Spider-Man Vol. 1",
+      "author": "Stan Lee",
+      "photo": "https://m.media-amazon.com/images/I/81Aw0lD4TAL._AC_UF894,1000_QL80_.jpg",
+      "eraId": 2,
+      "userId": 3,
+      "id": 16
+    },
+    {
+      "title": "Amazing Spider-Man Vol. 2",
+      "author": "Stan Lee",
+      "photo": "https://m.media-amazon.com/images/I/512Qw2wDmEL._AC_UF1000,1000_QL80_.jpg",
+      "eraId": 2,
+      "userId": 3,
+      "id": 17
+    },
+    {
+      "title": "Amazing Spider-Man Vol.1",
+      "author": "Nick Spencer",
+      "photo": "https://m.media-amazon.com/images/I/51P6GcnJ+fL._SX323_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 3,
+      "id": 18
+    },
+    {
+      "title": "Batman: The Long Halloween",
+      "author": "Jeph Loeb",
+      "photo": "https://m.media-amazon.com/images/I/51ZjyahjxaL._SX318_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 19
+    }
   ],
   "reviews": [
     {
@@ -143,125 +183,165 @@
       "isFavorite": true
     },
     {
-        "id": 2,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 2,
-        "isFavorite": false
-      },
-      {
-        "id": 3,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 3,
-        "isFavorite": false
-      },
-      {
-        "id": 4,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 4,
-        "isFavorite": false
-      },
-      {
-        "id": 5,
-        "readStatId": 2,
-        "review": "",
-        "userId": 1,
-        "comicId": 5,
-        "isFavorite": false
-      },
-      {
-        "id": 6,
-        "readStatId": 1,
-        "review": "",
-        "userId": 1,
-        "comicId": 6,
-        "isFavorite": false
-      },
-      {
-        "id": 7,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 7,
-        "isFavorite": false
-      },
-      {
-        "id": 8,
-        "readStatId": 2,
-        "review": "",
-        "userId": 1,
-        "comicId": 8,
-        "isFavorite": false
-      },
-      {
-        "id": 9,
-        "readStatId": 3,
-        "review": "",
-        "userId": 3,
-        "comicId": 8,
-        "isFavorite": false
-      },
-      {
-        "id": 10,
-        "readStatId": 3,
-        "review": "",
-        "userId": 3,
-        "comicId": 7,
-        "isFavorite": false
-      },
-      {
-        "id": 11,
-        "readStatId": 1,
-        "review": "",
-        "userId": 1,
-        "comicId": 9,
-        "isFavorite": false
-      },
-      {
-        "id": 12,
-        "readStatId": 1,
-        "review": "",
-        "userId": 1,
-        "comicId": 10,
-        "isFavorite": false
-      },
-      {
-        "id": 13,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 11,
-        "isFavorite": false
-      },
-      {
-        "id": 14,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 12,
-        "isFavorite": false
-      },
-      {
-        "id": 15,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 13,
-        "isFavorite": false
-      },
-      {
-        "id": 16,
-        "readStatId": 3,
-        "review": "",
-        "userId": 1,
-        "comicId": 14,
-        "isFavorite": false
-      }
+      "id": 2,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 2,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 3,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 4,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "readStatId": 2,
+      "review": "",
+      "userId": 1,
+      "comicId": 5,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "readStatId": 1,
+      "review": "",
+      "userId": 1,
+      "comicId": 6,
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 7,
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "readStatId": 2,
+      "review": "",
+      "userId": 1,
+      "comicId": 8,
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "readStatId": 3,
+      "review": "",
+      "userId": 3,
+      "comicId": 8,
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "readStatId": 3,
+      "review": "",
+      "userId": 3,
+      "comicId": 7,
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "readStatId": 1,
+      "review": "",
+      "userId": 1,
+      "comicId": 9,
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "readStatId": 1,
+      "review": "",
+      "userId": 1,
+      "comicId": 10,
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 11,
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 12,
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 13,
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 14,
+      "isFavorite": false
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 3,
+      "isFavorite": false,
+      "comicId": 15,
+      "id": 17
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 3,
+      "isFavorite": false,
+      "comicId": 16,
+      "id": 18
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 3,
+      "isFavorite": false,
+      "comicId": 17,
+      "id": 19
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 3,
+      "isFavorite": false,
+      "comicId": 18,
+      "id": 20
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 19,
+      "id": 21
+    }
   ],
   "readStats": [
     {
