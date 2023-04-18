@@ -605,6 +605,14 @@
       "isFavorite": false,
       "comicId": 35,
       "id": 39
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 15,
+      "isFavorite": false,
+      "id": 43
     }
   ],
   "readStats": [
