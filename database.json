@@ -498,14 +498,6 @@
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "comicId": 15,
-      "isFavorite": false,
-      "id": 25
-    },
-    {
-      "readStatId": 3,
-      "review": "",
-      "userId": 1,
       "isFavorite": false,
       "comicId": 22,
       "id": 26
