@@ -141,7 +141,7 @@
       "id": 15
     },
     {
-      "title": "Amazing Spider-Man Vol. 1",
+      "title": "Amazing Spider-Man Vol. 12",
       "author": "Stan Lee",
       "photo": "https://m.media-amazon.com/images/I/81Aw0lD4TAL._AC_UF894,1000_QL80_.jpg",
       "eraId": 2,
@@ -187,6 +187,14 @@
       "eraId": 4,
       "userId": 1,
       "id": 21
+    },
+    {
+      "title": "Green Lantern: Kyle Rayner Vol. 1",
+      "author": "Ron Marz",
+      "photo": "https://m.media-amazon.com/images/I/61+XVHXX4tL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 22
     }
   ],
   "reviews": [
@@ -224,7 +232,7 @@
     },
     {
       "id": 5,
-      "readStatId": 2,
+      "readStatId": 1,
       "review": "",
       "userId": 1,
       "comicId": 5,
@@ -232,7 +240,7 @@
     },
     {
       "id": 6,
-      "readStatId": 1,
+      "readStatId": 2,
       "review": "",
       "userId": 1,
       "comicId": 6,
@@ -248,7 +256,7 @@
     },
     {
       "id": 8,
-      "readStatId": 2,
+      "readStatId": 1,
       "review": "",
       "userId": 1,
       "comicId": 8,
@@ -272,7 +280,7 @@
     },
     {
       "id": 11,
-      "readStatId": 1,
+      "readStatId": 2,
       "review": "",
       "userId": 1,
       "comicId": 9,
@@ -280,7 +288,7 @@
     },
     {
       "id": 12,
-      "readStatId": 1,
+      "readStatId": 2,
       "review": "",
       "userId": 1,
       "comicId": 10,
@@ -327,7 +335,7 @@
       "id": 17
     },
     {
-      "readStatId": 2,
+      "readStatId": 1,
       "review": "",
       "userId": 3,
       "isFavorite": false,
@@ -335,7 +343,7 @@
       "id": 18
     },
     {
-      "readStatId": 1,
+      "readStatId": 2,
       "review": "",
       "userId": 3,
       "isFavorite": false,
@@ -343,7 +351,7 @@
       "id": 19
     },
     {
-      "readStatId": 1,
+      "readStatId": 2,
       "review": "",
       "userId": 3,
       "isFavorite": false,
@@ -375,22 +383,38 @@
       "id": 23
     },
     {
-      "readStatId": 1,
+      "readStatId": 2,
       "review": "",
       "userId": 3,
       "comicId": 21,
       "isFavorite": false,
       "id": 24
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 15,
+      "isFavorite": false,
+      "id": 25
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 22,
+      "id": 26
     }
   ],
   "readStats": [
     {
       "id": 1,
-      "type": "To Be Read"
+      "type": "Currently Reading"
     },
     {
       "id": 2,
-      "type": "Currently Reading"
+      "type": "To Be Read"
     },
     {
       "id": 3,
