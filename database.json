@@ -195,6 +195,110 @@
       "eraId": 4,
       "userId": 1,
       "id": 22
+    },
+    {
+      "title": "Wonder Woman Vol. 1",
+      "author": "Brian Azzarello",
+      "photo": "https://m.media-amazon.com/images/I/51u4JoAVilL.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "title": "Wonder Woman Vol. 2",
+      "author": "Brian Azzarello",
+      "photo": "https://m.media-amazon.com/images/I/51h74PTrV-L.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "title": "Wonder Woman Vol. 3",
+      "author": "Brian Azzarello",
+      "photo": "https://m.media-amazon.com/images/I/61uFNx8JSIL.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "title": "Wonder Woman Vol. 4",
+      "author": "Brian Azzarello",
+      "photo": "https://m.media-amazon.com/images/I/61gVeWw2U2L.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "title": "Wonder Woman Vol. 5",
+      "author": "Brian Azzarello",
+      "photo": "https://m.media-amazon.com/images/I/51OL-CZN93L.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "title": "Wonder Woman Vol. 6",
+      "author": "Brian Azzarello",
+      "photo": "https://m.media-amazon.com/images/I/51CmI7ZUVfL.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 28
+    },
+    {
+      "title": "Blackest Night",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/51fen7Ii9kL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 29
+    },
+    {
+      "title": "Green Lantern Geoff Johns Book 1",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/51mzqUu4SIL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 30
+    },
+    {
+      "title": "Green Lantern Geoff Johns Book 2",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/41xL7twAw-L.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 31
+    },
+    {
+      "title": "Green Lantern Geoff Johns Book 3",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/610PWcOGTfL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 32
+    },
+    {
+      "title": "Green Lantern Geoff Johns Book 4",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/51Ce2+VSTDL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 33
+    },
+    {
+      "title": "Daredevil Bendis Vol. 1",
+      "author": "Brian Michael Bendis",
+      "photo": "https://m.media-amazon.com/images/I/51Q9bLMbYUL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 34
+    },
+    {
+      "title": "Daredevil Bendis Vol. 2",
+      "author": "Brian Michael Bendis",
+      "photo": "https://m.media-amazon.com/images/I/514JTMzuLeL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 35
     }
   ],
   "reviews": [
@@ -405,6 +509,110 @@
       "isFavorite": false,
       "comicId": 22,
       "id": 26
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 23,
+      "id": 27
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 24,
+      "id": 28
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 25,
+      "id": 29
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 26,
+      "id": 30
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 27,
+      "id": 31
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 28,
+      "id": 32
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 29,
+      "id": 33
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 30,
+      "id": 34
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 31,
+      "id": 35
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 32,
+      "id": 36
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 33,
+      "id": 37
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 34,
+      "id": 38
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 35,
+      "id": 39
     }
   ],
   "readStats": [
