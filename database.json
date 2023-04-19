@@ -141,7 +141,7 @@
       "id": 15
     },
     {
-      "title": "Amazing Spider-Man Vol. 12",
+      "title": "Amazing Spider-Man Vol. 1",
       "author": "Stan Lee",
       "photo": "https://m.media-amazon.com/images/I/81Aw0lD4TAL._AC_UF894,1000_QL80_.jpg",
       "eraId": 2,
@@ -299,6 +299,38 @@
       "eraId": 4,
       "userId": 1,
       "id": 35
+    },
+    {
+      "title": "Green Arrow: Quiver",
+      "author": "Kevin Smith",
+      "photo": "https://m.media-amazon.com/images/I/512PSZY19XL._SX304_BO1,204,203,200_.jpg ",
+      "eraId": 4,
+      "userId": 1,
+      "id": 36
+    },
+    {
+      "title": "Ultimate Spider-Man Vol. 2",
+      "author": "Brian Michael Bendis",
+      "photo": "https://m.media-amazon.com/images/I/51w0hhWNlQL._SX328_BO1,204,203,200_.jpg",
+      "eraId": 7,
+      "userId": 3,
+      "id": 37
+    },
+    {
+      "title": "Ultimate Spider-Man Vol. 3",
+      "author": "Brian Michael Bendis",
+      "photo": "https://m.media-amazon.com/images/I/51UFPZUBQIL._SX326_BO1,204,203,200_.jpg",
+      "eraId": 7,
+      "userId": 3,
+      "id": 38
+    },
+    {
+      "title": "Daredevil: The Man Without Fear",
+      "author": "Frank Miller",
+      "photo": "https://m.media-amazon.com/images/I/41iwxNfkjUL._SX320_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 39
     }
   ],
   "reviews": [
@@ -613,6 +645,38 @@
       "comicId": 15,
       "isFavorite": false,
       "id": 43
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 36,
+      "id": 44
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 3,
+      "isFavorite": false,
+      "comicId": 37,
+      "id": 45
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 3,
+      "isFavorite": false,
+      "comicId": 38,
+      "id": 46
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 39,
+      "id": 47
     }
   ],
   "readStats": [
