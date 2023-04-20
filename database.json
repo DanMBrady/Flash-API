@@ -17,6 +17,12 @@
       "isAdmin": false,
       "fullName": "Tobey Maguire",
       "email": "spiderman2002@gmail.com"
+    },
+    {
+      "email": "speedislife@gmail.com",
+      "fullName": "Barry Allen",
+      "isAdmin": false,
+      "id": 4
     }
   ],
   "comics": [
@@ -677,6 +683,22 @@
       "isFavorite": false,
       "comicId": 39,
       "id": 47
+    },
+    {
+      "id": 48,
+      "readStatId": 3,
+      "review": "I thought this comic was average compared to Jeph Loebs other work.",
+      "userId": 4,
+      "comicId": 8,
+      "isFavorite": true
+    },
+    {
+      "id": 49,
+      "readStatId": 3,
+      "review": "Every Flash fan should read this",
+      "userId": 4,
+      "comicId": 1,
+      "isFavorite": false
     }
   ],
   "readStats": [
