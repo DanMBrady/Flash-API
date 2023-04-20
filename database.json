@@ -337,7 +337,7 @@
     {
       "id": 1,
       "readStatId": 3,
-      "review": "",
+      "review": "This is the greatest Flash Comic ever",
       "userId": 1,
       "comicId": 1,
       "isFavorite": true
@@ -392,19 +392,19 @@
     },
     {
       "id": 8,
-      "readStatId": 1,
-      "review": "",
+      "readStatId": 3,
+      "review": "I love Spider-Man Blue, Gwen Stacy really shines in this one.",
       "userId": 1,
       "comicId": 8,
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 9,
       "readStatId": 3,
-      "review": "",
+      "review": "Spider-Man Blue is one of the greatest Spider-Man stories of all time, every fan owes it to themselves to read it.",
       "userId": 3,
       "comicId": 8,
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 10,
@@ -647,7 +647,7 @@
       "id": 43
     },
     {
-      "readStatId": 3,
+      "readStatId": 1,
       "review": "",
       "userId": 1,
       "isFavorite": false,
