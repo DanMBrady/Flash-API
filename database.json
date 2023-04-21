@@ -383,6 +383,78 @@
       "eraId": 4,
       "userId": 1,
       "id": 39
+    },
+    {
+      "title": "Flash by Mark Waid book 1",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/61hZqXnH0GL.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 40
+    },
+    {
+      "title": "Flash by Mark Waid book 2",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/610BbYr7eCL.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 41
+    },
+    {
+      "title": "Flash by Mark Waid book 3",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/61Rq2xKjUqL.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 42
+    },
+    {
+      "title": "Flash by Mark Waid book 4",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/61NunSV4R8L.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 43
+    },
+    {
+      "title": "Flash by Mark Waid book 5",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51mGqkotxdL.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 44
+    },
+    {
+      "title": "Flash by Mark Waid book 6",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51soFlQNcwL.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 45
+    },
+    {
+      "title": "Flash by Mark Waid book 7",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51sSXBrrhWL.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 46
+    },
+    {
+      "title": "Flash by Mark Waid book 8",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51oR9XtSJZL._SX319_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 4,
+      "id": 47
+    },
+    {
+      "title": "Flash by Grant Morrison",
+      "author": "Grant Morrison",
+      "photo": "https://m.media-amazon.com/images/I/51dxNqeKgYL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 48
     }
   ],
   "reviews": [
@@ -723,12 +795,12 @@
       "id": 46
     },
     {
+      "id": 47,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 39,
-      "id": 47
+      "isFavorite": false
     },
     {
       "id": 48,
@@ -745,14 +817,6 @@
       "userId": 4,
       "comicId": 1,
       "isFavorite": false
-    },
-    {
-      "readStatId": 3,
-      "review": "",
-      "userId": 4,
-      "comicId": 21,
-      "isFavorite": false,
-      "id": 50
     },
     {
       "id": 51,
@@ -801,6 +865,78 @@
       "userId": 10,
       "comicId": 2,
       "isFavorite": false
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 40,
+      "id": 57
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 41,
+      "id": 58
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 42,
+      "id": 59
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 43,
+      "id": 60
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 44,
+      "id": 61
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 45,
+      "id": 62
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 46,
+      "id": 63
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 4,
+      "isFavorite": false,
+      "comicId": 47,
+      "id": 64
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 48,
+      "id": 65
     }
   ],
   "readStats": [
