@@ -675,12 +675,12 @@
       "isFavorite": true
     },
     {
+      "id": 22,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 20,
-      "id": 22
+      "isFavorite": false
     },
     {
       "id": 23,
