@@ -455,6 +455,54 @@
       "eraId": 4,
       "userId": 1,
       "id": 48
+    },
+    {
+      "title": "Flash Vol. 5",
+      "author": "Brian Buccellato",
+      "photo": "https://m.media-amazon.com/images/I/51D3Cdb4QyL._SX321_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 5,
+      "id": 49
+    },
+    {
+      "title": "Flash Vol. 6",
+      "author": "Robert Venditti",
+      "photo": "https://m.media-amazon.com/images/I/61tv3gz2b2L._SX322_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 5,
+      "id": 50
+    },
+    {
+      "title": "Flash Vol. 7",
+      "author": "Robert Venditti",
+      "photo": "https://m.media-amazon.com/images/I/61fBcmhR8QL._SX324_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 5,
+      "id": 51
+    },
+    {
+      "title": "Flash Vol. 8",
+      "author": "Robert Venditti",
+      "photo": "https://m.media-amazon.com/images/I/51SqYjF1u-L._SX320_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 5,
+      "id": 52
+    },
+    {
+      "title": "Flash Vol. 9",
+      "author": "Robert Venditti",
+      "photo": "https://m.media-amazon.com/images/I/61Ap6CkUXKL._SX318_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 5,
+      "id": 53
+    },
+    {
+      "title": "Wonder Woman: The Circle",
+      "author": "Gail Simone",
+      "photo": "https://m.media-amazon.com/images/I/51euqNF0suL.jpg",
+      "eraId": 4,
+      "userId": 7,
+      "id": 54
     }
   ],
   "reviews": [
@@ -488,15 +536,15 @@
       "review": "",
       "userId": 1,
       "comicId": 4,
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 5,
-      "readStatId": 1,
+      "readStatId": 3,
       "review": "",
       "userId": 1,
       "comicId": 5,
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 6,
@@ -512,7 +560,7 @@
       "review": "",
       "userId": 1,
       "comicId": 7,
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 8,
@@ -584,7 +632,7 @@
       "review": "",
       "userId": 1,
       "comicId": 14,
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "readStatId": 3,
@@ -619,12 +667,12 @@
       "id": 20
     },
     {
+      "id": 21,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 19,
-      "id": 21
+      "isFavorite": true
     },
     {
       "readStatId": 3,
@@ -659,12 +707,12 @@
       "id": 26
     },
     {
+      "id": 27,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 23,
-      "id": 27
+      "isFavorite": true
     },
     {
       "readStatId": 3,
@@ -707,12 +755,12 @@
       "id": 32
     },
     {
+      "id": 33,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 29,
-      "id": 33
+      "isFavorite": true
     },
     {
       "readStatId": 3,
@@ -747,28 +795,28 @@
       "id": 37
     },
     {
+      "id": 38,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 34,
-      "id": 38
+      "isFavorite": true
     },
     {
+      "id": 39,
       "readStatId": 3,
       "review": "",
       "userId": 1,
-      "isFavorite": false,
       "comicId": 35,
-      "id": 39
+      "isFavorite": true
     },
     {
+      "id": 43,
       "readStatId": 3,
       "review": "",
       "userId": 1,
       "comicId": 15,
-      "isFavorite": false,
-      "id": 43
+      "isFavorite": false
     },
     {
       "readStatId": 1,
@@ -937,6 +985,62 @@
       "isFavorite": false,
       "comicId": 48,
       "id": 65
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 5,
+      "isFavorite": false,
+      "comicId": 49,
+      "id": 66
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 5,
+      "isFavorite": false,
+      "comicId": 50,
+      "id": 67
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 5,
+      "isFavorite": false,
+      "comicId": 51,
+      "id": 68
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 5,
+      "isFavorite": false,
+      "comicId": 52,
+      "id": 69
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 5,
+      "isFavorite": false,
+      "comicId": 53,
+      "id": 70
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 7,
+      "isFavorite": false,
+      "comicId": 54,
+      "id": 71
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 1,
+      "comicId": 54,
+      "isFavorite": false,
+      "id": 72
     }
   ],
   "readStats": [
