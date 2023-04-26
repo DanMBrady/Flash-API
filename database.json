@@ -503,6 +503,86 @@
       "eraId": 4,
       "userId": 7,
       "id": 54
+    },
+    {
+      "title": "Flash Geoff Johns Book 3",
+      "author": "Geoff Johns",
+      "photo": "https://m.media-amazon.com/images/I/61GobeglYgL.jpg",
+      "eraId": 4,
+      "userId": 1,
+      "id": 55
+    },
+    {
+      "title": "Nightwing Vol. 1",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/51FC0Y884iL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 56
+    },
+    {
+      "title": "Nightwing Vol. 2",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/61AlDHYlETL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 57
+    },
+    {
+      "title": "Nightwing Vol. 3",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/61DJd0hLh7L.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 58
+    },
+    {
+      "title": "Nightwing Vol. 4",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/51Lc2kJ0ZgL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 59
+    },
+    {
+      "title": "Nightwing Vol. 5",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/61tYHtsHT0L.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 60
+    },
+    {
+      "title": "Nightwing Vol. 6",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/61mO86wzTlL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 61
+    },
+    {
+      "title": "Nightwing Vol. 7",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/61GbmTzSqLL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 62
+    },
+    {
+      "title": "Nightwing Tom Taylor Vol. 1",
+      "author": "Tom Taylor",
+      "photo": "https://m.media-amazon.com/images/I/51HgMrqslTL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 63
+    },
+    {
+      "title": "Nightwing Tom Taylor Vol. 2",
+      "author": "Tom Taylor",
+      "photo": "https://m.media-amazon.com/images/I/51Tdfg7m2QL.jpg",
+      "eraId": 4,
+      "userId": 10,
+      "id": 64
     }
   ],
   "reviews": [
@@ -635,12 +715,12 @@
       "isFavorite": true
     },
     {
+      "id": 17,
       "readStatId": 3,
       "review": "",
       "userId": 3,
-      "isFavorite": false,
       "comicId": 15,
-      "id": 17
+      "isFavorite": true
     },
     {
       "readStatId": 1,
@@ -771,7 +851,7 @@
       "id": 34
     },
     {
-      "readStatId": 3,
+      "readStatId": 1,
       "review": "",
       "userId": 1,
       "isFavorite": false,
@@ -819,7 +899,7 @@
       "isFavorite": false
     },
     {
-      "readStatId": 1,
+      "readStatId": 3,
       "review": "",
       "userId": 1,
       "isFavorite": false,
@@ -1041,6 +1121,86 @@
       "comicId": 54,
       "isFavorite": false,
       "id": 72
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 55,
+      "id": 73
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 56,
+      "id": 74
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 57,
+      "id": 75
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 58,
+      "id": 76
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 59,
+      "id": 77
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 60,
+      "id": 78
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 61,
+      "id": 79
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 62,
+      "id": 80
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 63,
+      "id": 81
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 10,
+      "isFavorite": false,
+      "comicId": 64,
+      "id": 82
     }
   ],
   "readStats": [
