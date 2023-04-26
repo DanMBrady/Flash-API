@@ -69,6 +69,13 @@
       "userName": "kidflash2003",
       "isAdmin": false,
       "id": 10
+    },
+    {
+      "email": "waynebruce@gmail.com",
+      "fullName": "Bruce Wayne",
+      "userName": "brucewayne1999",
+      "isAdmin": false,
+      "id": 11
     }
   ],
   "comics": [
@@ -1201,6 +1208,30 @@
       "isFavorite": false,
       "comicId": 64,
       "id": 82
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 11,
+      "comicId": 2,
+      "isFavorite": false,
+      "id": 83
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 11,
+      "comicId": 19,
+      "isFavorite": false,
+      "id": 84
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 11,
+      "comicId": 43,
+      "isFavorite": false,
+      "id": 86
     }
   ],
   "readStats": [
