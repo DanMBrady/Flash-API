@@ -69,13 +69,6 @@
       "userName": "kidflash2003",
       "isAdmin": false,
       "id": 10
-    },
-    {
-      "email": "waynebruce@gmail.com",
-      "fullName": "Bruce Wayne",
-      "userName": "brucewayne1999",
-      "isAdmin": false,
-      "id": 11
     }
   ],
   "comics": [
@@ -622,6 +615,14 @@
       "eraId": 4,
       "userId": 9,
       "id": 68
+    },
+    {
+      "title": "Grayson",
+      "author": "Tom King",
+      "photo": "https://m.media-amazon.com/images/I/41dp6tN8eRL._SX323_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 1,
+      "id": 69
     }
   ],
   "reviews": [
@@ -1242,30 +1243,6 @@
       "id": 82
     },
     {
-      "readStatId": 2,
-      "review": "",
-      "userId": 11,
-      "comicId": 2,
-      "isFavorite": false,
-      "id": 83
-    },
-    {
-      "readStatId": 2,
-      "review": "",
-      "userId": 11,
-      "comicId": 19,
-      "isFavorite": false,
-      "id": 84
-    },
-    {
-      "readStatId": 1,
-      "review": "",
-      "userId": 11,
-      "comicId": 43,
-      "isFavorite": false,
-      "id": 86
-    },
-    {
       "readStatId": 1,
       "review": "",
       "userId": 9,
@@ -1296,6 +1273,22 @@
       "userId": 9,
       "comicId": 68,
       "isFavorite": true
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 1,
+      "comicId": 16,
+      "isFavorite": false,
+      "id": 91
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 1,
+      "isFavorite": false,
+      "comicId": 69,
+      "id": 92
     }
   ],
   "readStats": [
