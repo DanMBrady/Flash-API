@@ -4,19 +4,22 @@
       "id": 1,
       "fullName": "Dan Brady",
       "isAdmin": true,
+      "isSuperAdmin": true,
       "userName": "danbrady01",
       "email": "bradydan@email.com"
     },
     {
       "id": 2,
       "isAdmin": false,
+      "isSuperAdmin": false,
       "fullName": "Matt Murdock",
       "userName": "daredevil1964",
       "email": "nelsonmurdock@gmail.com"
     },
     {
       "id": 3,
-      "isAdmin": false,
+      "isAdmin": true,
+      "isSuperAdmin": false,
       "fullName": "Tobey Maguire",
       "userName": "spiderman2002",
       "email": "spiderman2002@gmail.com"
@@ -26,6 +29,7 @@
       "fullName": "Barry Allen",
       "userName": "fastestmanalive20",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 4
     },
     {
@@ -33,6 +37,7 @@
       "fullName": "Wally West",
       "userName": "wallywest1985",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 5
     },
     {
@@ -40,6 +45,7 @@
       "fullName": "Hal Jordan",
       "userName": "greenlantercorps21",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 6
     },
     {
@@ -47,13 +53,15 @@
       "fullName": "Sarah Hamel",
       "userName": "saharacamel333",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 7
     },
     {
-      "email": "code@gmail.com",
+      "email": "john@gmail.com",
       "fullName": "John Brady",
       "userName": "johntbrady",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 8
     },
     {
@@ -61,6 +69,7 @@
       "fullName": "Dan Danny",
       "userName": "dannymb360",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 9
     },
     {
@@ -68,7 +77,24 @@
       "fullName": "Bart Allen ",
       "userName": "kidflash2003",
       "isAdmin": false,
+      "isSuperAdmin": false,
       "id": 10
+    },
+    {
+      "email": "waynebruce@gmail.com",
+      "fullName": "Bruce Wayne",
+      "userName": "brucewayne1999",
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "id": 11
+    },
+    {
+      "email": "johnnytest2005@gmail.com",
+      "fullName": "Johnny Test",
+      "userName": "lifeofjohnny2005",
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "id": 12
     }
   ],
   "comics": [
