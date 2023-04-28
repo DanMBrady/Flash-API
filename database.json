@@ -28,7 +28,7 @@
       "email": "speedislife@gmail.com",
       "fullName": "Barry Allen",
       "userName": "fastestmanalive20",
-      "isAdmin": false,
+      "isAdmin": true,
       "isSuperAdmin": false,
       "id": 4
     },
@@ -52,7 +52,7 @@
       "email": "pokemon@gmail.com",
       "fullName": "Sarah Hamel",
       "userName": "saharacamel333",
-      "isAdmin": false,
+      "isAdmin": true,
       "isSuperAdmin": false,
       "id": 7
     },
@@ -79,22 +79,6 @@
       "isAdmin": false,
       "isSuperAdmin": false,
       "id": 10
-    },
-    {
-      "email": "waynebruce@gmail.com",
-      "fullName": "Bruce Wayne",
-      "userName": "brucewayne1999",
-      "isAdmin": false,
-      "isSuperAdmin": false,
-      "id": 11
-    },
-    {
-      "email": "johnnytest2005@gmail.com",
-      "fullName": "Johnny Test",
-      "userName": "lifeofjohnny2005",
-      "isAdmin": false,
-      "isSuperAdmin": false,
-      "id": 12
     }
   ],
   "comics": [
