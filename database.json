@@ -1285,14 +1285,6 @@
       "isFavorite": true
     },
     {
-      "readStatId": 3,
-      "review": "",
-      "userId": 1,
-      "comicId": 16,
-      "isFavorite": false,
-      "id": 91
-    },
-    {
       "readStatId": 1,
       "review": "",
       "userId": 1,
@@ -1348,5 +1340,72 @@
       "id": 8,
       "era": "Marvel's NOW Era"
     }
+  ],
+  "bookclubs": [
+    {
+      "id": 1,
+      "name": "Green Lantern Corps",
+      "comicId": 21,
+      "photo": "https://m.media-amazon.com/images/I/81TSlmTxYsL._AC_UF1000,1000_QL80_.jpg",
+      "description": "This comic follows spiderman as he meets his deadly foe Venom for the first time. With amazing Todd McFarlane art and great story telling."
+    },
+    {
+      "id": 2,
+      "name": "GCPD",
+      "comicId": 10,
+      "photo": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/653221.jpg",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "X-Force",
+      "comicId": 18,
+      "photo": "https://m.media-amazon.com/images/I/513mDmPy2RL.jpg",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "The Rogues",
+      "comicId": 13,
+      "photo": "https://m.media-amazon.com/images/I/51XdT02RrrL.jpg",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "JSA",
+      "comicId": 40,
+      "photo": "https://cdn.mos.cms.futurecdn.net/yTi75gDVzK2vNYBaotcZgE.jpg",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Daily Bugle",
+      "comicId": 5,
+      "photo": "https://www.looper.com/img/gallery/the-untold-truth-of-spider-mans-daily-bugle/l-intro-1603296308.jpg",
+      "description": ""
+    }
+  ],
+  "members":[
+    {
+      "id":1,
+      "userId":1,
+      "bookClubId":1
+  },
+  {
+    "id":2,
+    "userId":3,
+    "bookClubId":1
+},
+{
+  "id":3,
+  "userId":7,
+  "bookClubId":1
+},
+{
+  "id":4,
+  "userId":8,
+  "bookClubId":1
+}
+
   ]
 }
