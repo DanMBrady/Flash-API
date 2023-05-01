@@ -633,6 +633,14 @@
       "eraId": 5,
       "userId": 1,
       "id": 69
+    },
+    {
+      "title": "Watchmen",
+      "author": "Alan Moore",
+      "photo": "http://prodimage.images-bn.com/pimages/9781779501127_p0_v1_s1200x630.jpg",
+      "eraId": 4,
+      "userId": 3,
+      "id": 70
     }
   ],
   "reviews": [
@@ -886,7 +894,7 @@
     },
     {
       "id": 33,
-      "readStatId": 3,
+      "readStatId": 1,
       "review": "",
       "userId": 1,
       "comicId": 29,
@@ -1165,14 +1173,6 @@
       "id": 71
     },
     {
-      "readStatId": 1,
-      "review": "",
-      "userId": 1,
-      "comicId": 54,
-      "isFavorite": false,
-      "id": 72
-    },
-    {
       "readStatId": 3,
       "review": "",
       "userId": 1,
@@ -1285,12 +1285,20 @@
       "isFavorite": true
     },
     {
-      "readStatId": 1,
+      "readStatId": 3,
       "review": "",
       "userId": 1,
       "isFavorite": false,
       "comicId": 69,
       "id": 92
+    },
+    {
+      "id": 93,
+      "readStatId": 3,
+      "review": "A True Classic",
+      "userId": 3,
+      "comicId": 70,
+      "isFavorite": true
     }
   ],
   "readStats": [
@@ -1347,55 +1355,45 @@
       "name": "Green Lantern Corps",
       "comicId": 69,
       "photo": "https://m.media-amazon.com/images/I/81TSlmTxYsL._AC_UF1000,1000_QL80_.jpg",
-      "description": ""
+      "description": "To the heroes, villains and ordinary citizens of Earth, Dick Grayson is dead—but death is the perfect cover story for an agent of Spyral. As the newest member of this top-secret spy ring, Grayson helps scour the globe for the pieces of the Paragon, a slain god whose every organ is a weapon of mass destruction"
     },
     {
       "id": 2,
       "name": "GCPD",
       "comicId": 65,
       "photo": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/653221.jpg",
-      "description": ""
+      "description": "Karen Page, Matt Murdock's former lover, has traded away the Man Without Fear's secret identity for a drug fix. Now, Daredevil must find strength as the Kingpin of Crime wastes no time taking him down as low as a human can get"
     },
     {
       "id": 3,
       "name": "X-Force",
-      "comicId": 63,
+      "comicId": 70,
       "photo": "https://m.media-amazon.com/images/I/513mDmPy2RL.jpg",
-      "description": ""
+      "description": "Watchmen begins as a murder-mystery, but soon unfolds into a planet-altering conspiracy. As the resolution comes to a head, the unlikely group of reunited heroes--Rorschach, Nite Owl, Silk Spectre, Dr. Manhattan and Ozymandias--have to test the limits of their convictions and ask themselves where the true line is between good and evil."
     },
     {
       "id": 4,
       "name": "The Rogues",
       "comicId": 66,
       "photo": "https://m.media-amazon.com/images/I/51XdT02RrrL.jpg",
-      "description": ""
+      "description": "Nobody knows what happened on the night the heroes fell. All we know is that they disappeared and evil triumphed and the bad guys have been calling the shots ever since. What happened to Wolverine is the biggest mystery of all. For 50 years, no one has heard hide nor hair from him...and in his place stands an old man called Logan. A man concerned only about his family. A man pushed to the brink by the HULK GANG. A man forced to help an old friend--the blind archer, HAWKEYE--drive three thousand miles to secure his family's safety. Get ready for the ride of your life, Logan."
     },
     {
       "id": 5,
       "name": "JSA",
       "comicId": 14,
       "photo": "https://cdn.mos.cms.futurecdn.net/yTi75gDVzK2vNYBaotcZgE.jpg",
-      "description": ""
+      "description": "Sinestro -- Hal Jordan's former mentor and arch-nemesis -- has gathered an army of soldiers fueled by the fear they instill in others, consisting of Arkillo, Karu-Sil, the Cyborg-Superman, and hundreds more of the most terrifying villains the universe has ever seen! Trapped in the depths of the Sinestro Corps' Citadel and face-to-face with the Guardian of Sinestro's army of fear, Hal Jordan must find the will-power to battle these terrible foes. "
     },
     {
       "id": 6,
       "name": "Daily Bugle",
       "comicId": 68,
       "photo": "https://www.looper.com/img/gallery/the-untold-truth-of-spider-mans-daily-bugle/l-intro-1603296308.jpg",
-      "description": ""
+      "description": "Doomsday. A creature with single-minded purpose of death and destruction. He has landed on Earth, laying waste to anything--and anyone--who dares stand in his way. The Justice League makes a valiant, but ultimately desperate, attempt to stop the unknown juggernaut. When the beast nears Metropolis, Superman answers the call to stop him."
     }
   ],
   "members": [
-    {
-      "id": 1,
-      "userId": 1,
-      "bookClubId": 1
-    },
-    {
-      "id": 2,
-      "userId": 3,
-      "bookClubId": 1
-    },
     {
       "id": 3,
       "userId": 7,
@@ -1405,6 +1403,51 @@
       "id": 4,
       "userId": 8,
       "bookClubId": 1
+    },
+    {
+      "userId": 3,
+      "bookClubId": 2,
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "bookClubId": 3,
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "bookClubId": 5,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "bookClubId": 5,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "bookClubId": 4,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "bookClubId": 6,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "bookClubId": 1,
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "bookClubId": 2,
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "bookClubId": 3,
+      "id": 19
     }
   ]
 }
