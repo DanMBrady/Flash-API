@@ -641,6 +641,118 @@
       "eraId": 4,
       "userId": 3,
       "id": 70
+    },
+    {
+      "title": "Batman: Dark Victory",
+      "author": "Jeph Loeb",
+      "photo": "https://m.media-amazon.com/images/I/51xrGW0rwnL._SX318_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 71
+    },
+    {
+      "title": "Batgirl Vol. 1",
+      "author": "Gail Simone",
+      "photo": "https://m.media-amazon.com/images/I/51pv7S8cK0L._SX340_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 9,
+      "id": 72
+    },
+    {
+      "title": "Batgirl Vol. 2",
+      "author": "Gail Simone",
+      "photo": "https://m.media-amazon.com/images/I/61SB7lGmqaL._SX337_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 9,
+      "id": 73
+    },
+    {
+      "title": "Batgirl Vol. 3",
+      "author": "Gail Simone",
+      "photo": "https://m.media-amazon.com/images/I/51+hs7iFwoL._SX330_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 9,
+      "id": 74
+    },
+    {
+      "title": "Batgirl Vol. 4",
+      "author": "Gail Simone",
+      "photo": "https://m.media-amazon.com/images/I/51qHqPyd9xL._SX331_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 9,
+      "id": 75
+    },
+    {
+      "title": "Batgirl Vol. 5",
+      "author": "Gail Simone",
+      "photo": "https://m.media-amazon.com/images/I/51KB1fHbgLL._SX329_BO1,204,203,200_.jpg",
+      "eraId": 5,
+      "userId": 9,
+      "id": 76
+    },
+    {
+      "title": "Batman Grant Morrison Vol. 1",
+      "author": "Grant Morrison",
+      "photo": "https://m.media-amazon.com/images/I/51XzkQ8X-3L._SX339_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 77
+    },
+    {
+      "title": "Batman Grant Morrison Vol. 2",
+      "author": "Grant Morrison",
+      "photo": "https://m.media-amazon.com/images/I/51Y0VDeJ8lL._SX332_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 78
+    },
+    {
+      "title": "Batman Knightfall Vol. 1",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/51+H9oJdk2L._SX321_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 79
+    },
+    {
+      "title": "Batman Knightfall Vol. 2",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/61Q-tZRSCxL._SX321_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 80
+    },
+    {
+      "title": "Batman Knightfall Vol. 3",
+      "author": "Chuck Dixon",
+      "photo": "https://m.media-amazon.com/images/I/51c3N2Fwq4L._SX322_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 81
+    },
+    {
+      "title": "Fantastic Four Mark Waid Book 1",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51zCLFgL01L._SX322_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 82
+    },
+    {
+      "title": "Fantastic Four Mark Waid Book 2",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/61XUbKM0JvL._SX320_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 83
+    },
+    {
+      "title": "Fantastic Four Mark Waid Book 3",
+      "author": "Mark Waid",
+      "photo": "https://m.media-amazon.com/images/I/51e9+3ykIqL._SX324_BO1,204,203,200_.jpg",
+      "eraId": 4,
+      "userId": 9,
+      "id": 84
     }
   ],
   "reviews": [
@@ -1299,6 +1411,118 @@
       "userId": 3,
       "comicId": 70,
       "isFavorite": true
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 71,
+      "id": 94
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 72,
+      "id": 95
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 73,
+      "id": 96
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 74,
+      "id": 97
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 75,
+      "id": 98
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 76,
+      "id": 99
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 77,
+      "id": 100
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 78,
+      "id": 101
+    },
+    {
+      "readStatId": 1,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 79,
+      "id": 102
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 80,
+      "id": 103
+    },
+    {
+      "readStatId": 2,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 81,
+      "id": 104
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 82,
+      "id": 105
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 83,
+      "id": 106
+    },
+    {
+      "readStatId": 3,
+      "review": "",
+      "userId": 9,
+      "isFavorite": false,
+      "comicId": 84,
+      "id": 107
     }
   ],
   "readStats": [
@@ -1448,6 +1672,21 @@
       "userId": 1,
       "bookClubId": 3,
       "id": 19
+    },
+    {
+      "userId": 9,
+      "bookClubId": 5,
+      "id": 20
+    },
+    {
+      "userId": 9,
+      "bookClubId": 1,
+      "id": 21
+    },
+    {
+      "userId": 9,
+      "bookClubId": 3,
+      "id": 22
     }
   ]
 }
